@@ -1,5 +1,6 @@
 # Project Week 4: To-do list application (Cont.)
 ## Introduction
+Hello! :)
 As of now, you have completed Project Week 3 and should now have a fully functional React Application with the ability to navigate to an **About me** page and a **Home** page hosting the Todo List Application. The Todo List Application itself allows users to provide a task w/ a due date, create a list w/ those user inputs to be displayed on a webpage, mark those task as complete and remove them from the list, and etc. Currently, all data which is essentially our tasks in this case lives in the front-end (Todo List Application). Everytime we refresh the page or restart our application that data is lost. This is where the backend component comes into play. The backend component will allow us to communicate to our front-end component (Todo List Application) using express and save our data inside a database (json file) where data will not be lost after a page refresh or application restart. For Project Week 4, you will go thru the process of initializing and creating a backend component, using express to communicate with the front-end component, and using axios to communicate with backend component.
 
 ## Requirements
